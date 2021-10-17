@@ -43,14 +43,14 @@
 ```
 - Tekan Enter pada keyboard
 
-![Gambar 7](ssan/7.png)
+![image](https://user-images.githubusercontent.com/92609633/137634091-e9cac84e-2045-452a-842e-1ba2c027cb7a.png)
 
 - Kemudian muncul file README.md di file kalian
 - Klik kanan pada mouse, lalu pilih open with pilih "Visual Studio Code"
 - Jika kalian belum instal "Visual Studio Code" kalian bisa download [VCS](https://code.visualstudio.com/)
 - Tutorial cara instal [Video instalasi VCS](https://www.youtube.com/watch?v=OSmaWPSgvTQ)
 
-![Gambar 8](ssan/8.png)
+![image](https://user-images.githubusercontent.com/92609633/137634420-3b263486-50ad-4b05-ac5e-fb901629f66f.png)
 
 Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md</p>
 - Edit file README.md, lalu jangan lupa  di save (ctrl+s)
